@@ -9,3 +9,5 @@ grails-mapc-searchable/target/
 grails-mapc-searchable/web-app/WEB-INF/classes/
 grails-mapc-searchable/*.zip
 
+
+/target-eclipse/
